@@ -2,9 +2,9 @@
 ## fall-22-mp1-work
 
 
-### Last Name:  
-### First Name: 
-### GitHub Username: 
+### Last Name:  Gao
+### First Name: Brady
+### GitHub Username: bradygao1
 
 ---
 #### General Workflow: 
